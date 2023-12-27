@@ -108,7 +108,7 @@ WSGI_APPLICATION = 'dadarbank.wsgi.application'
 DATABASES = {
     'default': dj_database_url.config(
         # Feel free to alter this value to suit your needs.
-        default='postgres://dadar_bank_user:VzOHL9Ybx60mOs8aXyLLxdvb51qLCgzD@dpg-cm5qrfen7f5s73e7om2g-a.oregon-postgres.render.com/dadar_bank',
+        default='postgres://mamarbank_uy7n_user:X7UFixGbqg4aH0OXAOywgdTirYleAQOr@dpg-cm5vn0un7f5s73c76veg-a.oregon-postgres.render.com/mamarbank_uy7n',
     )
 }
 
